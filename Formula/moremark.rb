@@ -1,8 +1,8 @@
 class Moremark < Formula
   desc "More for markdown - native macOS previewer for the CLI"
   homepage "https://github.com/jasonmimick/moremark"
-  url "https://github.com/jasonmimick/moremark/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "1c3c16d1246ae7877705ab58948f2ba9651a45974f7d614ca6b9839e8e6cce62"
+  url "https://github.com/jasonmimick/moremark/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "a0c6fe03b9de932204e4a4f5f13c6b6f2bb564dec9357b902a61a1b53c563dbc"
   license "MIT"
 
   depends_on :macos
