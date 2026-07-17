@@ -1,8 +1,8 @@
 class Markmore < Formula
   desc "More for markdown - native macOS previewer for the CLI"
   homepage "https://github.com/jasonmimick/markmore"
-  url "https://github.com/jasonmimick/markmore/archive/refs/tags/v2.3.0.tar.gz"
-  sha256 "cc9ebe6300803c1493a3ada4e2365e53bfea210aa8d5708aa502543e1d5468e6"
+  url "https://github.com/jasonmimick/markmore/archive/refs/tags/v2.3.1.tar.gz"
+  sha256 "72cb6212e31f997d1fa4458817bb7e36f26d8590c535014c395fdff451348491"
   license "MIT"
 
   depends_on :macos
